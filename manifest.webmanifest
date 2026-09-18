@@ -1,0 +1,17 @@
+{
+  "name": "Sadhu Health",
+  "short_name": "Sadhu Health",
+  "description": "Catatan kolesterol, gula darah, asam urat, dan tensi keluarga, tersinkron ke Google Drive.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF2F0",
+  "theme_color": "#13303A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
